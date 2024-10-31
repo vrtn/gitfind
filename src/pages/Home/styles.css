@@ -1,0 +1,85 @@
+.conteudo{
+    position: relative;
+
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.background{
+    height: 100vh;
+    position: absolute;
+    left: 0;
+}
+
+.info{
+    width: 60%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: #fff;
+}
+
+input{
+    border-radius: 20px;
+    border: 1px solid #999;
+    width: 60%;
+    margin-right: 12px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+    color: #fff;
+}
+
+button{
+    border-radius: 20px;
+    border: 1px solid #999;
+    margin-right: 12px;
+    background: #2d333b;
+    font-size: 18px;
+    padding: 10px;
+    color: #FFF;
+    width: 130px;
+}
+
+.profile{
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    border: 1px solid #e5e5e5;
+    margin-right: 32px;
+}
+
+.perfil{
+    display: flex;
+    margin: 20px 0;
+}
+
+.perfil h3{
+    color: #999;
+    font-size: 24px;
+    margin: 0;
+    font-family: 'Roboto', Courier, monospace;
+}
+
+.perfil span{
+    display: block;
+    color: #999;
+    font-size: 18px;
+    margin: 0;
+    font-family: 'Roboto', Courier, monospace;
+}
+
+.perfil p{
+    color: #999;
+    font-size: 16px;
+    margin: 20px 0 0 0;
+    font-family: 'Roboto', Courier, monospace;
+}
+
+.repositorio{
+    font-family: 'Roboto', Courier, monospace;
+    font-size: 32px;
+    color: #FFF;
+    margin: 12px;
+    text-align: center;
+}

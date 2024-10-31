@@ -1,0 +1,23 @@
+.item-list{
+    margin:24px 0;
+}
+
+.item-list strong{
+    font-family: 'Roboto', Courier, monospace;
+    color: #539bf5;
+    font-size: 24px;
+    margin:24px 0;
+}
+
+.item-list p{
+    font-family: 'Roboto', Courier, monospace;
+    color: #999;
+    font-size: 14px;
+    margin: 24px 0;
+}
+
+.item-list a{
+    font-family: 'Roboto', Courier, monospace;
+    text-decoration: none;
+    color: #FFF;
+}
